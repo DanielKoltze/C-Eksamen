@@ -1,0 +1,15 @@
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/obj/Debug/net7.0/EksmaneØvelse.csproj.AssemblyReference.cache
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/obj/Debug/net7.0/EksmaneØvelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/obj/Debug/net7.0/EksmaneØvelse.AssemblyInfoInputs.cache
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/obj/Debug/net7.0/EksmaneØvelse.AssemblyInfo.cs
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/obj/Debug/net7.0/EksmaneØvelse.csproj.CoreCompileInputs.cache
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/bin/Debug/net7.0/EksmaneØvelse
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/bin/Debug/net7.0/EksmaneØvelse.deps.json
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/bin/Debug/net7.0/EksmaneØvelse.runtimeconfig.json
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/bin/Debug/net7.0/EksmaneØvelse.dll
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/bin/Debug/net7.0/EksmaneØvelse.pdb
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/obj/Debug/net7.0/EksmaneØvelse.dll
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/obj/Debug/net7.0/refint/EksmaneØvelse.dll
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/obj/Debug/net7.0/EksmaneØvelse.pdb
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/obj/Debug/net7.0/EksmaneØvelse.genruntimeconfig.cache
+/Users/danieljorgensen/Desktop/Skole/4 semester/c#/eksamen/EksmaneØvelse/EksmaneØvelse/obj/Debug/net7.0/ref/EksmaneØvelse.dll
